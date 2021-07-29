@@ -65,7 +65,7 @@ lista.append(4)  # metodo append que agrega un elemento a la lista...
 lista.clear()  # clear elimina todo el contenido de la lista
 
 print(lista2)
-# cuenta la cantidad de veces que se repite el elemento especificado en la lista
+# cuenta la cantidad de veces que se ree pite el elemento especificado en la lista
 print(lista2.count(2))
 
 # len calcula cual es la cantidad de elementos dentro de la lista...
