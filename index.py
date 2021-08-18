@@ -123,4 +123,4 @@ electronicos = {
 # tipo de dato boolean
 bandera = True
 bandera2 = False
-# print(bandera,bandera2)
+print(bandera,bandera2)
